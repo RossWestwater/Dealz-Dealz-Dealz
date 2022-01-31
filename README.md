@@ -9,9 +9,6 @@ Provide a short description explaining the what, why, and how of your project. U
 
 A relatively simple app that takes seeded data and utilizes mysql2, sequelize and express through Insomnia to test a variety of CRUD based actions. It was created to demonstrate the interlinking functionality between the various npms and create relational database logic to display nested information.
 
-## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 A walk-through video of this app in action can be viewed at: https://www.awesomescreenshot.com/video/7115859?key=db3cdf8f3b3a184a59e592be7d15c8c2
 The repo for the app can be found at: https://github.com/RossWestwater/Dealz-Dealz-Dealz
